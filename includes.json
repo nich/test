@@ -1,0 +1,13 @@
+{
+  "info" : "Files to include",
+  "package" : [
+    {
+      "file_name" : "Azure_Services_Platform.docx",
+      "file_url" : "https://github.com/nich/test/raw/main/Azure_Services_Platform.docx"
+    },
+    {
+      "file_name" : "empower-remote-workers.pdf",
+      "file_url" : "https://github.com/nich/test/raw/main/empower-remote-workers.pdf"
+    }
+  ]
+}
